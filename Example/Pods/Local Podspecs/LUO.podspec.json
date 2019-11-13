@@ -1,0 +1,22 @@
+{
+  "name": "LUO",
+  "version": "0.1.0",
+  "summary": "A short description of LUO.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chao/LUO",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chao": "chao.luo@einyun.com"
+  },
+  "source": {
+    "git": "https://github.com/chao/LUO.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LUO/Classes/**/*"
+}
