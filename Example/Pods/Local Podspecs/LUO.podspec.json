@@ -1,9 +1,9 @@
 {
   "name": "LUO",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A short description of LUO.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/chao/LUO",
+  "homepage": "https://github.com/l13635692453/Uni",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,18 @@
     "chao": "chao.luo@einyun.com"
   },
   "source": {
-    "git": "https://github.com/chao/LUO.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/l13635692453/Uni.git",
+    "tag": "0.1.1"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.0"
   },
-  "source_files": "LUO/Classes/**/*"
+  "swift_versions": "4.0",
+  "source_files": "LUO/Classes/**/*",
+  "dependencies": {
+    "MJRefresh": [
+
+    ]
+  },
+  "swift_version": "4.0"
 }

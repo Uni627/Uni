@@ -1,15 +1,22 @@
 PODS:
-  - LUO (0.1.0)
+  - LUO (0.1.1):
+    - MJRefresh
+  - MJRefresh (3.2.2)
 
 DEPENDENCIES:
   - LUO (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - MJRefresh
 
 EXTERNAL SOURCES:
   LUO:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LUO: 1198362465873fd8138641949a78dcffdb9dae45
+  LUO: 6e025cb1dcdaecfb95dec981b66cee23bfefb2d7
+  MJRefresh: 72a46ecaa2a0feaf48fc5198dff95f25f8bb27c6
 
 PODFILE CHECKSUM: 69f26d95ba30c0ce8ff2d4de3a8f7c90b9323af8
 
