@@ -20,10 +20,5 @@
   },
   "swift_versions": "4.0",
   "source_files": "LUO/Classes/**/*",
-  "dependencies": {
-    "MJRefresh": [
-
-    ]
-  },
   "swift_version": "4.0"
 }
